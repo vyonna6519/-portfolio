@@ -16,6 +16,12 @@ body {
     padding: 20px;
 }
 
-.navlink{
-    
+.navbar-dark .navbar-nav .nav-link {
+    color: #fff;
+    padding-left: 20px;
 }
+
+a:hover {
+    background-color: rgb(55, 57, 70);
+  }
+    
