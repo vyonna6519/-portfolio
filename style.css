@@ -28,7 +28,7 @@ a:hover {
 .profile{
     text-align: center;
     padding: 160px;
-    background: rgb(120, 147, 148);
+    background: rgb(101, 120, 121);
   font-size: 30px;
 }
 .prof1 h1 {
@@ -41,5 +41,5 @@ a:hover {
     font-size: 1em;
     font-weight: lighter;
     font-family: monospace;
-    word-spacing: 2px;
+    word-spacing: gpx;
 }
