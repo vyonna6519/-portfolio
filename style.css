@@ -27,10 +27,17 @@ a:hover {
 
 .profile{
     text-align: center;
-    padding: 160px;
     background: rgb(148, 143, 135);
-  font-size: 30px;
+    font-size: 30px;
 }
+
+.prof1{
+    padding-top: 150px;
+    padding-bottom: 40px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
 .prof1 h1 {
     font-size: 2.2em;
     font-weight: bold;
@@ -41,7 +48,7 @@ a:hover {
     font-size: 1em;
     font-weight: lighter;
     font-family: monospace;
-    word-spacing: gpx;
+
 }
 
 .projects{
