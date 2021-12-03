@@ -43,3 +43,33 @@ a:hover {
     font-family: monospace;
     word-spacing: gpx;
 }
+
+.projects{
+    padding: 50px;
+    text-align: center;
+    font-size: 35px;
+    font-weight: bold;
+    
+}
+
+.row{
+    padding: 50px;
+    box-sizing: border-box;
+
+}
+
+.card1{
+  display: flex;
+  justify-content: space-evenly;
+}
+.card2{
+    display: flex;
+  justify-content: space-evenly;
+  padding: 50px;
+  
+}
+.card h5{
+    font-size: 20px;
+    font-weight: 700;
+}
+
