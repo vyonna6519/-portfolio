@@ -96,5 +96,9 @@ a:hover {
 }
 .edujob {
     display: flex;
-    justify-content: space-between;
     margin: 50px;
+}
+
+.job {
+    margin-left: 250px;
+}
