@@ -51,7 +51,7 @@ a:hover {
 
 }
 
-.projects{
+.project h3{
     padding: 50px;
     text-align: center;
 
@@ -80,9 +80,15 @@ a:hover {
     font-family: 'Times New Roman', Times, serif;
     font-size: medium;
     font-weight: normal;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 50px;
+    
+
     
 }
-.about11 {
+.about h3{
     text-align: center;
     padding: 50px;
 }
@@ -93,6 +99,7 @@ a:hover {
 }
 .edujob {
     display: flex;
+    
     margin: 50px;
 }
 
@@ -104,7 +111,7 @@ a:hover {
 .job {
     margin-left: 250px;
 }
-.span {
+span {
     font-weight: bold;
 }
 .skills h6{
@@ -117,16 +124,27 @@ a:hover {
     font-weight: 700;
 }
 
-.contact {
+.contacts h3 {
     text-align: center;
 }
 
 .form {
-    width: 40%;
+    width: 50%;
  justify-content: center;
  padding: 50px;
 }
 
+label {
+    margin-bottom: 10px;
+}
+
+input{
+    margin-bottom: 10px;
+}
+
+button {
+   margin-top:20px ;
+}
 .f1 {
     text-align: center;
     padding: 20px;
@@ -134,4 +152,29 @@ a:hover {
 }
 
 
+
+@media screen and (max-width:1200px){
+    .aboutme{
+        padding: 80px;
+    }
+}
+
+@media screen and (max-width:1000px){
+    .about{
+        background-size: 100%;
+        padding: 100px 40px;
+    }
+    .aboutme{
+        width: 100%;
+    }
+}
+
+@media screen and (max-width:600px){
+    .about{
+        padding: 0;
+    }
+    .aboutme{
+        padding: 60px;
+    }
+}
 
