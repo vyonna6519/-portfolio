@@ -120,8 +120,15 @@ a:hover {
 }
 
 .form {
-    width: 50%;
+    width: 40%;
  justify-content: center;
+ padding: 50px;
+}
+
+.f1 {
+    text-align: center;
+    padding: 20px;
+    background: rgb(117, 117, 116);
 }
 
 
