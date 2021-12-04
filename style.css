@@ -77,10 +77,13 @@ a:hover {
 }
 
 .about {
+    background: rgb(214, 207, 181);
+    
+}
+
+.about h3 {
     text-align: center;
     padding: 50px;
     font-size: 35px;
     font-weight: bold;
-    background: rgb(123, 162, 173);
-    
 }
