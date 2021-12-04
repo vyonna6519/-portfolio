@@ -78,6 +78,8 @@ a:hover {
 
 .about {
     background: rgb(214, 207, 181);
+    font-family: Arial, Helvetica, sans-serif;
+
     
 }
 
@@ -87,3 +89,12 @@ a:hover {
     font-size: 35px;
     font-weight: bold;
 }
+
+.about1 {
+    font-weight: 700;
+    font-size: 20px;
+}
+.edujob {
+    display: flex;
+    justify-content: space-between;
+    margin: 50px;
