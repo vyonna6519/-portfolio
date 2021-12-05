@@ -155,14 +155,14 @@ button {
 
 @media screen and (max-width:1200px){
     .aboutme{
-        padding: 80px;
+        padding: 40px;
     }
 }
 
 @media screen and (max-width:1000px){
     .about{
         background-size: 100%;
-        padding: 100px 40px;
+        
     }
     .aboutme{
         width: 100%;
