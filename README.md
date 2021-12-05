@@ -12,10 +12,8 @@ You can install it with the following command in your terminal
 ### Setup
 To access this project on your local files, you can clone it using these steps
 1. Open your terminal
-2. Use this command to clone `$ git clone`
-3. 
+2. Use this command to clone `$ git clone https://github.com/vyonna6519/-portfolio.git`
 * This will clone the repository into your local folder
-4. __Enjoy :)__:)__
 ### Technologies Used
 1. HTML
 2. CSS
